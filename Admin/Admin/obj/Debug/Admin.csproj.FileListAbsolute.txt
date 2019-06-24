@@ -1,0 +1,11 @@
+E:\Center Mangement\Admin\Admin\bin\Debug\Admin.exe.config
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.Admin.resources
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+E:\Center Mangement\Admin\Admin\bin\Debug\Admin.exe
+E:\Center Mangement\Admin\Admin\bin\Debug\Admin.pdb
+E:\Center Mangement\Admin\Admin\bin\Debug\IrisSkin2.dll
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.exe
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.pdb
+E:\Center Mangement\Admin\Admin\obj\Debug\Admin.Login.resources

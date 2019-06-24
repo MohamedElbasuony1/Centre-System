@@ -1,0 +1,14 @@
+C:\Users\M7MD Basuony\Videos\Center\Center\bin\Debug\Center.exe.config
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.Form1.resources
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.Print.resources
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.Properties.Resources.resources
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.Report.resources
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.csproj.GenerateResource.Cache
+C:\Users\M7MD Basuony\Videos\Center\Center\bin\Debug\Center.exe
+C:\Users\M7MD Basuony\Videos\Center\Center\bin\Debug\Center.pdb
+C:\Users\M7MD Basuony\Videos\Center\Center\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+C:\Users\M7MD Basuony\Videos\Center\Center\bin\Debug\IrisSkin2.dll
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.exe
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.pdb
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.csprojResolveAssemblyReference.cache
+C:\Users\M7MD Basuony\Videos\Center\Center\obj\Debug\Center.group.resources
